@@ -72,7 +72,7 @@ O navegador abrirá automaticamente a interface do dashboard.
 
 📞 Contato
 Desenvolvido por Tatiana Kami
-GitHub: github.com/Tatianakami
+linkedin.com/in/tatiana-kami
 
 
 
