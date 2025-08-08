@@ -62,3 +62,19 @@ O arquivo Excel (`vendas.xlsx`) deve conter as seguintes colunas obrigatórias:
 | **Gráfico de barras** | Visualiza dados com barras (comparação entre categorias)  |
 | **Gráfico de linha** | Mostra evolução dos dado
 
+Execute o dashboard com:
+
+bash
+Copiar
+Editar
+streamlit run main.py
+O navegador abrirá automaticamente a interface do dashboard.
+
+📞 Contato
+Desenvolvido por Tatiana Kami
+GitHub: github.com/Tatianakami
+
+yaml
+Copiar
+Editar
+
