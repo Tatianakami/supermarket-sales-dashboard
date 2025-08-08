@@ -74,7 +74,5 @@ O navegador abrirá automaticamente a interface do dashboard.
 Desenvolvido por Tatiana Kami
 GitHub: github.com/Tatianakami
 
-yaml
-Copiar
-Editar
+
 
