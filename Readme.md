@@ -70,9 +70,10 @@ Editar
 streamlit run main.py
 O navegador abrirá automaticamente a interface do dashboard.
 
-📞 Contato
+
+
 Desenvolvido por Tatiana Kami
-linkedin.com/in/tatiana-kami
+Contato linkedin.com/in/tatiana-kami
 
 
 
